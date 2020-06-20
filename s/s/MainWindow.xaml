@@ -1,0 +1,22 @@
+﻿<Window x:Class="s.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:s"
+        mc:Ignorable="d"
+        Title="Площадь трапеции" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.495,0.529">
+        <TextBlock  HorizontalAlignment="Left" Margin="137,45,0,0" FontSize="25"  TextWrapping="Wrap" Text="1 основание" VerticalAlignment="Top" Height="39" Width="179"/>
+        <TextBlock  HorizontalAlignment="Left" Margin="137,129,0,0" FontSize="25"  TextWrapping="Wrap" Text="2 основание" VerticalAlignment="Top" Height="39" Width="179"/>
+        <TextBlock  HorizontalAlignment="Left" Margin="137,215,0,0" FontSize="25"  TextWrapping="Wrap" Text="Высота" VerticalAlignment="Top" Height="39" Width="179"/>
+        <TextBox x:Name="base1" FontSize="25" HorizontalAlignment="Left" Height="39" Margin="436,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <TextBox x:Name="base2" FontSize="25" HorizontalAlignment="Left" Height="39" Margin="436,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <TextBox x:Name="h" FontSize="25" HorizontalAlignment="Left" Height="39" Margin="436,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <TextBlock x:Name="res"  HorizontalAlignment="Left" Margin="137,301,0,0" FontSize="25"  TextWrapping="Wrap" Text="Площадь" VerticalAlignment="Top" Height="39" Width="179"/>
+        <TextBox x:Name="s" FontSize="25" HorizontalAlignment="Left" Height="39" Margin="436,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <Button x:Name="Вычислить" Margin="436,367,148,10" Content="Вычислить" FontSize="25" Click="Вычислить_Click"></Button>
+        
+
+    </Grid>
+</Window>

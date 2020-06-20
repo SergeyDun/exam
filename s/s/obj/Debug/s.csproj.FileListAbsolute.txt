@@ -1,0 +1,14 @@
+C:\экзамен\s\s\bin\Debug\s.exe.config
+C:\экзамен\s\s\bin\Debug\s.exe
+C:\экзамен\s\s\bin\Debug\s.pdb
+C:\экзамен\s\s\obj\Debug\s.csprojAssemblyReference.cache
+C:\экзамен\s\s\obj\Debug\MainWindow.g.cs
+C:\экзамен\s\s\obj\Debug\App.g.cs
+C:\экзамен\s\s\obj\Debug\s_MarkupCompile.cache
+C:\экзамен\s\s\obj\Debug\s_MarkupCompile.lref
+C:\экзамен\s\s\obj\Debug\MainWindow.baml
+C:\экзамен\s\s\obj\Debug\s.g.resources
+C:\экзамен\s\s\obj\Debug\s.Properties.Resources.resources
+C:\экзамен\s\s\obj\Debug\s.csproj.GenerateResource.cache
+C:\экзамен\s\s\obj\Debug\s.exe
+C:\экзамен\s\s\obj\Debug\s.pdb
